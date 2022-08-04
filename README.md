@@ -1,4 +1,6 @@
-
+# Guide
+Stitching_detailed3 is for opencv C++ version 3.4.16
+Stitching_detailed4_5_5 is for opencv C++ version 4.5.5
 
 # Compile code
 g++ stitching_detailed3.cpp `pkg-config opencv --cflags --libs` -o stitching_detailed3
