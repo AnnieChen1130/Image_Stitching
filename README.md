@@ -1,4 +1,4 @@
-
+![image stitching overflow](https://user-images.githubusercontent.com/26658307/182920464-edb20554-b1e8-44f2-808a-b1f52ea92a01.jpg)
 
 # Guide
 Stitching_detailed3.cpp is for opencv C++ version 3.4.16
